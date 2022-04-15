@@ -23,5 +23,8 @@
   "homepage": "https://github.com/EllaKya777/test2-project#readme",
   "devDependencies": {
     "parcel-bundler": "^1.12.5"
+  },
+  "dependencies": {
+    "gh-pages": "^3.2.3"
   }
 }
